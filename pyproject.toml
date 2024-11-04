@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Oracle"
+name = "Random-Oracle"
 description = "Built Oracle, a prophet that can do multiple things, including spit fortunes (fortune cookie), output a random decision (8ball), give a quick, random mood (vibe check), and output a random pet (petting zoo)."
 version = "0.1.0"
 authors = [
