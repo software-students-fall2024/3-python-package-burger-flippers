@@ -5,7 +5,7 @@ output a random decision (8ball), give a quick, random mood (vibe check), and ou
 pet (petting zoo). 
 
 ## Badge
-[INSERT BADGE HERE]
+![Python build & test](https://github.com/software-students-fall2024/3-python-package-burger-flippers/actions/workflows/event-logger.yml/badge.svg)
 
 ## Link to Package Page
 [INSERT LINK HERE]
