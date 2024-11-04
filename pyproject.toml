@@ -7,10 +7,10 @@ name = "Oracle"
 description = "Built Oracle, a prophet that can do multiple things, including spit fortunes (fortune cookie), output a random decision (8ball), give a quick, random mood (vibe check), and output a random pet (petting zoo)."
 version = "0.1.0"
 authors = [
-    {name: "Christopher Li", email:"cl6591@nyu.edu"}, 
-    {name: "Julie Chen", email:"jc11048@nyu.edu"}, 
-    {name: "Aneri Shah", email:"aneri.shah@nyu.edu"}, 
-    {name: "Maddy Li", email:"maddyli@nyu.edu"}
+    {name= "Christopher Li", email="cl6591@nyu.edu"}, 
+    {name= "Julie Chen", email="jc11048@nyu.edu"}, 
+    {name= "Aneri Shah", email="aneri.shah@nyu.edu"}, 
+    {name= "Maddy Li", email="maddyli@nyu.edu"}
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
