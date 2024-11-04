@@ -7,7 +7,7 @@ pet (petting zoo).
 ## Badge
 ![Python build & test](https://github.com/software-students-fall2024/3-python-package-burger-flippers/actions/workflows/event-logger.yml/badge.svg)
 
-## [Link to Package Page](https://test.pypi.org/project/Oracle/0.1.0/)
+## [Link to Package Page](https://pypi.org/project/Random-Oracle/0.1.0/)
 
 ## Team Members
 [Christopher Li](https://github.com/christopherlii), [Julie Chen](https://github.com/Julie-Chen), [Maddy Li](https://github.com/maddy-li), [Aneri Shah](https://github.com/anerivs)
